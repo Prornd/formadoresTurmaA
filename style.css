@@ -12,6 +12,13 @@
         font-size: 20px;
         color:rgb(2, 0, 32);
     }
+
+    
+    .textovermelho{
+        text-align: justify;
+        font-size: 30px;
+        color:rgb(33, 2, 2);
+    }
     
 Body {
     background-color: rgb(218, 224, 194);
