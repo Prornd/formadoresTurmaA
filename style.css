@@ -6,6 +6,11 @@
     font-size: 40px;
 }
 
+h1 {
+    color: blue;
+    text-align: justify;
+    font-size: 30;
+}
 
     .textoazul{
         text-align: justify;
