@@ -7,11 +7,12 @@
 }
 
 
-    p{
+    .textoazul{
         text-align: justify;
         font-size: 20px;
         color:rgb(2, 0, 32);
     }
+    
 Body {
     background-color: rgb(218, 224, 194);
 }
