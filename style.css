@@ -25,7 +25,11 @@ h1 {
     font-size: 30;
 }
 
-
+h2 {
+    text-align: justify;
+        font-size: 20px;
+        color:rgb(33, 2, 2);
+}
     .textoazul{
         text-align: justify;
         font-size: 20px;
